@@ -1,0 +1,11 @@
+class: nominal: CYT,NUC,MIT,ME3,ME2,ME1,EXC,VAC,POX,ERL
+	     
+Sequence Name: continuous
+mcg: continuous
+gvh: continuous
+alm: continuous 
+mit: continuous         
+erl: nominal: 0.50,1.00
+pox: continuous
+vac: continuous
+nuc: continuous

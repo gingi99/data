@@ -1,0 +1,10 @@
+class: nominal: not_recom, recommend, very_recom, priority, spec_prior
+
+parents:     nominal: usual, pretentious, great_pret
+has_nurs:    nominal: proper, less_proper, improper, critical, very_crit
+form:        nominal: complete, completed, incomplete, foster
+children:    nominal: 1, 2, 3, more
+housing:     nominal: convenient, less_conv, critical
+finance:     nominal: convenient, inconv
+social:      nominal: nonprob, slightly_prob, problematic
+health:      nominal: recommended, priority, not_recom

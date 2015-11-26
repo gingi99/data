@@ -1,0 +1,37 @@
+class: nominal: diaporthe-stem-canker,charcoal-rot,rhizoctonia-root-rot, phytophthora-rot, brown-stem-rot,powdery-mildew, downy-mildew, brown-spot, bacterial-blight,bacterial-pustule, purple-seed-stain, anthracnose,phyllosticta-leaf-spot, alternarialeaf-spot, frog-eye-leaf-spot
+
+date:		nominal: 0,1,2,3,4,5,6
+plant-stand:	nominal: 0,1
+precip:		nominal: 0,1,2
+temp:		nominal: 0,1,2
+hail:		nominal: 0,1
+crop-hist:	nominal: 0,1,2,3
+area-damaged:	nominal: 0,1,2,3
+severity:	nominal: 0,1,2
+seed-tmt:	nominal: 0,1,2
+germination:	nominal: 0,1,2
+plant-growth:	nominal: 0,1
+leaves:		nominal: 0,1
+leafspots-halo:	nominal: 0,1,2
+leafspots-marg:	nominal: 0,1,2
+leafspot-size:	nominal: 0,1,2
+leaf-shread:	nominal: 0,1
+leaf-malf:	nominal: 0,1
+leaf-mild:	nominal: 0,1,2
+stem:		nominal: 0,1
+lodging:    	nominal: 0,1
+stem-cankers:	nominal: 0,1,2,3
+canker-lesion:	nominal: 0,1,2,3
+fruiting-bodies:	nominal: 0,1
+external decay:	nominal: 0,1,2
+mycelium:	nominal: 0,1
+int-discolor:	nominal: 0,1,2
+sclerotia:	nominal: 0,1
+fruit-pods:	nominal: 0,1,2,3
+fruit spots:	nominal: 0,1,2,3,4
+seed:		nominal: 0,1
+mold-growth:	nominal: 0,1
+seed-discolor:	nominal: 0,1
+seed-size:	nominal: 0,1
+shriveling:	nominal: 0,1
+roots:		nominal: 0,1,2

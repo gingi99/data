@@ -1,0 +1,36 @@
+class: nominal: 1,2,3,4,5,6
+
+erythema:	continuous
+scaling:	continuous
+definite_borders:	continuous
+itching:	continuous
+koebner_phenomenon:	continuous
+polygonal_papules:	continuous
+follicular_papules:	continuous
+oral_mucosal_involvement:	continuous
+knee_and_elbow_involvement:	continuous
+scalp_involvement:	continuous
+family_history:	nominal: 0,1
+melanin_incontinence:	continuous
+eosinophils_in_the_infiltrate:	continuous
+PNL_infiltrate:	continuous
+fibrosis_of_the_papillary_dermis:	continuous
+exocytosis:	continuous
+acanthosis:	continuous
+hyperkeratosis:	continuous
+parakeratosis:	continuous
+clubbing_of_the_rete_ridges:	continuous
+elongation_of_the_rete_ridges:	continuous
+thinning_of_the_suprapapillary_epidermis:	continuous
+spongiform_pustule:	continuous
+munro_microabcess:	continuous
+focal_hypergranulosis:	continuous
+disappearance_of_the_granular_la_yer:	continuous
+vacuolisation_and_damage_of_basal_layer:	continuous
+spongiosis:	continuous
+saw-tooth_appearance_of_retes:	continuous
+follicular_horn_plug:	continuous
+perifollicular_parakeratosis:	continuous
+inflammatory_monoluclear_inflitrate:	continuous
+band-like_infiltrate:	continuous
+Age:			continuous

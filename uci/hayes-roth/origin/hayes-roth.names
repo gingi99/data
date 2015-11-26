@@ -1,0 +1,6 @@
+class: nominal: 1,2,3
+
+hobby: nominal: 1,2,3
+age: nominal: 1,2,3,4
+educational level: nominal: 1,2,3,4
+marital status: nominal: 1,2,3,4

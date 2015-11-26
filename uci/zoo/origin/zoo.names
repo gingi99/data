@@ -1,0 +1,19 @@
+class: nominal: 1,2,3,4,5,6,7
+
+animal: continuous
+hair: nominal: 0,1
+feathers: nominal: 0,1
+eggs: nominal: 0,1
+milk: nominal: 0,1
+airborne: nominal: 0,1
+aquatic: nominal: 0,1
+predator: nominal: 0,1
+toothed: nominal: 0,1
+backbone: nominal: 0,1
+breathes: nominal: 0,1
+venomous: nominal: 0,1
+fins: nominal: 0,1
+legs: nominal: 0,2,4,5,6,8
+tail: nominal: 0,1
+domestic: nominal: 0,1
+catsize: nominal: 0,1

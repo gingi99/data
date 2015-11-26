@@ -1,0 +1,10 @@
+class: nominal: cp,im,pp,imU,om,omL,imL,imS
+
+Sequence Name: continuous
+mcg: continuous
+gvh: continuous
+lip: nominal: 0.48,1.00
+chg: nominal: 0.50,1.00
+aac: continuous
+alm1: continuous
+alm2: continuous

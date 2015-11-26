@@ -1,0 +1,7 @@
+d: set: unacc, acc, good, vgood
+buying: ordinal: low, med, high, vhigh
+maint: ordinal: low, med, high, vhigh
+doors: ordinal: 2, 3, 4, 5more
+persons: ordinal: 2, 4, more
+lug_boot: ordinal: small, med, big
+safety: ordinal: low, med, high

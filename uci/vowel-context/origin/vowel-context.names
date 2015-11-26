@@ -1,0 +1,15 @@
+class: nominal: 0,1,2,3,4,5,6,7,8,9,10
+
+Train or Test: continuous
+Speaker Number: nominal: 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Sex: nominal: 0,1
+Feature 0: continuous
+Feature 1: continuous
+Feature 2: continuous
+Feature 3: continuous
+Feature 4: continuous
+Feature 5: continuous
+Feature 6: continuous
+Feature 7: continuous
+Feature 8: continuous
+Feature 9: continuous

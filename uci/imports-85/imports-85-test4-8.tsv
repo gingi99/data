@@ -1,0 +1,17 @@
+normalized-losses	make	fuel-type	aspiration	num-of-doors	body-style	drive-wheels	engine-location	wheel-base	length	width	height	curb-weight	engine-type	num-of-cylinders	engine-size	fuel-system	bore	stroke	compression-ratio	horsepower	peak-rpm	city-mpg	highway-mpg	price	class
+188	bmw	gas	std	four	sedan	rwd	front	101.2	176.8	64.8	54.3	2765	ohc	six	164	mpfi	3.31	3.19	9	121	4250	21	28	21105	0
+110	dodge	gas	std	four	wagon	fwd	front	103.3	174.6	64.6	59.8	2535	ohc	four	122	2bbl	3.34	3.46	8.5	88	5000	24	30	8921	-1
+106	honda	gas	std	two	hatchback	fwd	front	96.5	167.5	65.2	53.3	2289	ohc	four	110	1bbl	3.15	3.58	9	86	5800	27	33	9095	0
+113	mazda	gas	std	four	sedan	fwd	front	93.1	166.8	64.2	54.1	1950	ohc	four	91	2bbl	3.08	3.15	9	68	5000	31	38	7395	1
+93	mercedes-benz	diesel	turbo	four	sedan	rwd	front	115.6	202.6	71.7	56.3	3770	ohc	five	183	idi	3.58	3.64	21.5	123	4350	22	25	31600	-1
+125	mitsubishi	gas	turbo	four	sedan	fwd	front	96.3	172.4	65.4	51.6	2403	ohc	four	110	spdi	3.17	3.46	7.5	116	5500	23	30	9279	1
+103	nissan	gas	std	four	wagon	fwd	front	94.5	170.2	63.8	53.5	2037	ohc	four	97	2bbl	3.15	3.29	9.4	69	5200	31	37	7999	1
+161	peugot	gas	std	four	sedan	rwd	front	107.9	186.7	68.4	56.7	3020	l	four	120	mpfi	3.46	3.19	8.4	97	5000	19	24	11900	0
+154	plymouth	gas	std	four	sedan	fwd	front	93.7	167.3	63.8	50.8	1989	ohc	four	90	2bbl	2.97	3.23	9.4	68	5500	31	38	6692	1
+83	subaru	gas	std	two	hatchback	fwd	front	93.7	156.9	63.4	53.7	2050	ohcf	four	97	2bbl	3.62	2.36	9	69	4900	31	36	5118	2
+85	subaru	gas	std	four	wagon	4wd	front	96.9	173.6	65.4	54.9	2420	ohcf	four	108	2bbl	3.62	2.64	9	82	4800	23	29	8013	0
+91	toyota	diesel	std	four	sedan	fwd	front	95.7	166.3	64.4	53	2275	ohc	four	110	idi	3.27	3.35	22.5	56	4500	34	36	7898	0
+134	toyota	gas	std	two	hardtop	rwd	front	98.4	176.2	65.6	52	2536	ohc	four	146	mpfi	3.62	3.5	9.3	116	4800	24	30	9639	2
+197	toyota	gas	std	two	hatchback	rwd	front	102.9	183.5	67.7	52	2976	dohc	six	171	mpfi	3.27	3.35	9.3	161	5200	20	24	16558	3
+256	volkswagen	gas	std	two	hatchback	fwd	front	94.5	165.7	64	51.4	2221	ohc	four	109	mpfi	3.19	3.4	8.5	90	5500	24	29	9980	3
+95	volvo	diesel	turbo	four	sedan	rwd	front	109.1	188.8	68.9	55.5	3217	ohc	six	145	idi	3.01	3.4	23	106	4800	26	27	22470	-1
